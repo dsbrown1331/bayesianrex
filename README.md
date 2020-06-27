@@ -15,7 +15,7 @@ Bayesian REX pipeline:
 
 
 
-This repository contains a code used to conduct experiments reported in the paper "Safe Imitation Learning via Fast Bayesian Reward Inference from Preferences" published at ICML 2020.
+This repository contains code used to conduct experiments reported in the paper "Safe Imitation Learning via Fast Bayesian Reward Inference from Preferences" published at ICML 2020.
 
 If you find this repository is useful in your research, please cite the paper:
 ```
