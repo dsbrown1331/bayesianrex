@@ -8,13 +8,14 @@ Daniel S. Brown, Russell Coleman, Ravi Srinivasan, Scott Niekum
 </p>
 
 
+Bayesian REX pipeline:
 <p align=center>
-  <img src='assets/BREXslide.pdf' width=600>
+  <img src='assets/BREXslide.png' width=1000>
 </p>
 
 
 
-This repository contains a code used to conduct experiments reported in the paper "Safe Imitation Learning via Fast Bayesian Reward Inference from Preferences" published at ICML 2020.
+This repository contains code used to conduct experiments reported in the paper "Safe Imitation Learning via Fast Bayesian Reward Inference from Preferences" published at ICML 2020.
 
 If you find this repository is useful in your research, please cite the paper:
 ```
