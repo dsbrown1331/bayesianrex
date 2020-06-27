@@ -9,7 +9,7 @@ Daniel S. Brown, Russell Coleman, Ravi Srinivasan, Scott Niekum
 
 
 <p align=center>
-  <img src='assets/brexslide.PNG' width=600>
+  <img src='assets/BREXslide.pdf' width=600>
 </p>
 
 
