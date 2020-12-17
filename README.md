@@ -15,7 +15,9 @@ Bayesian REX pipeline:
 
 
 
-This repository contains code used to conduct the Atari experiments reported in the paper "Safe Imitation Learning via Fast Bayesian Reward Inference from Preferences" published at ICML 2020. If you are interested in the gridworld experiments reported in the Appendix, please see this repo [brex_gridworld_cpp](https://github.com/dsbrown1331/brex_gridworld_cpp).
+This repository contains code used to conduct the Atari experiments reported in the paper "Safe Imitation Learning via Fast Bayesian Reward Inference from Preferences" published at ICML 2020. 
+
+If you are interested in the gridworld experiments reported in the Appendix, please see this repo [brex_gridworld_cpp](https://github.com/dsbrown1331/brex_gridworld_cpp).
 
 If you find this repository is useful in your research, please cite the paper:
 ```
